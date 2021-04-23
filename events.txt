@@ -1,0 +1,6 @@
+5
+OnlineEvent;Dancing;SP Dance Club;19.80;2021-10-28 09:15;2
+FaceEvent;Crafting;SP Craft Club;20.80;2021-10-28 10:15;3;20;0
+FaceEvent;Cooking;SP Cook Club;5.60;2021-10-16 10:15;4;40;0
+OnlineEvent;Reading;SP Book Club;14.30;2021-05-07 09:15;2
+FaceEvent;Singing;SP Sing Club;6.60;2021-06-13 09:15;3;10;0
